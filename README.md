@@ -8,7 +8,7 @@ I'm a **Penultimate Student🎓 [@ Singapore Management University (SMU)](https:
 ## 🌱 I’m currently learning<br>
 - Machine Learning and Artificial Intelligence.
 
-##⚡ Fun fact
+## ⚡ Fun fact
 - 🏋️ I enjoy going to the gym and running in my free time.<br>
 - 🏔️ I enjoy going on hikes occasionally.<br>
 - 🎌 My favourite country is Japan.
