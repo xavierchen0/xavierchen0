@@ -5,7 +5,7 @@
 # 💫 About Me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Penultimate Student🎓 [@ Singapore Management University (SMU)](https://www.smu.edu.sg/)** studying a Bachelor of Business Management (BBM) with a major in Quantitative Finance, and enrolling into SMU Masters in Quantitative Finance in 2025. I'm a **Tech Enthusiast 💻** passionate about learning and working with new tech.
 
-🌱 I’m currently learning<br>- Machine Learning and Artificial Intelligence<br>
+🌱 I’m currently learning<br>- Machine Learning and Artificial Intelligence.
 
 <br>⚡ Fun fact<br>
 - 🏋️ I enjoy going to the gym and running in my free time.<br>
