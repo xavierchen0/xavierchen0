@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me: <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Senior Student 🎓 [@ Singapore Management University (SMU)](https://www.smu.edu.sg/)** studying a Bachelor of Business Management (BBM) with a major in Quantitative Finance, and a SMU Master of Science in Quantitative Finance (MQF). I am also enrolling into [National University of Singapore's (NUS)](https://nus.edu.sg/) Master of Computing in August 2026! 
+I'm a **Graduate 🎓 of [Singapore Management University (SMU)](https://www.smu.edu.sg/)** studying a Bachelor of Business Management (BBM) with a major in Quantitative Finance, and a SMU Master of Science in Quantitative Finance (MQF). I am also a **Current Student 🎓 of [National University of Singapore's (NUS)](https://nus.edu.sg/)** Master of Computing in August 2026! 
 
 I'm a **Tech Enthusiast 💻** passionate about learning and working with new tech.
 
